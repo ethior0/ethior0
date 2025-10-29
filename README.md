@@ -1,4 +1,4 @@
-   # Olá, meu nome é Thiago! 👋
+   # Olá, thiago, nao deixe mais o pc ligado, e por gentileza, NAO QUEBRE O MOUSE! 👋
 
    - 📒 Estudante de Desenvolvimento de Sistemas na ETEC-CT
    - 🌐 Me dedicando à Programação Web
