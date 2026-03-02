@@ -1,6 +1,6 @@
    # Olá, meu nome é Thiago! 👋
 
-   - 📒 Estudante de Desenvolvimento de Sistemas na ETEC-CT
+   - 📒 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-ZL
    - 🌐 Me dedicando à Programação Web
    - 📚 Atualmente estou estudando Node.js, React.js e TypeScript
 
